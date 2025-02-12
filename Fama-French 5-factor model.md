@@ -1,0 +1,11 @@
+### ** Lima Faktor dalam Model Fama-French 5-Factor**
+
+Model ini memperhitungkan **lima faktor utama** yang mempengaruhi return saham:
+
+| Faktor                                                      | Simbol                | Penjelasan                                                                                                                                                                       |
+| ----------------------------------------------------------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Excess Market Return                                        | Rm−RfR_m - R_fRm​−Rf​ | Selisih antara return pasar dan risk-free rate.                                                                                                                                  |
+| [[Size Factor (SMB - Small Minus Big)]]                     | SMB                   | Saham perusahaan kecil cenderung mengungguli saham perusahaan besar.                                                                                                             |
+| [[Value Factor (HML - High Minus Low)]]                     | HML                   | Saham dengan rasio book-to-market tinggi (value stocks) cenderung memiliki return lebih tinggi daripada saham dengan rasio rendah (growth stocks).                               |
+| [[Profitability Factor (RMW - Robust Minus Weak)]]          | RMW                   | Perusahaan dengan profitabilitas tinggi (robust) memberikan return lebih tinggi daripada perusahaan dengan profitabilitas rendah.                                                |
+| [[Investment Factor (CMA - Conservative Minus Aggressive)]] | CMA                   | Perusahaan dengan strategi investasi konservatif (menghasilkan lebih sedikit aset baru) cenderung memiliki return lebih tinggi dibandingkan perusahaan dengan investasi agresif. |

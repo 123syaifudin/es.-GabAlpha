@@ -1,0 +1,1 @@
+Robert Kiyosaki adalah seorang yang Pro terhadap [[Bitcoin]] dan [[Emas]]

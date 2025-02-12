@@ -1,0 +1,1 @@
+Kelurahan Botoran merupakan salah satu wilayah yang ada di dalam Kabupaten Tulungagung. Dalam Hal ini di Kelurahan Botoran pada Tahun 2024 Telah melakukan berbagai macam pekerjaan yaitu [[Perencanaan Pavingisasi]], [[Perencanaan Pembangunan Bank Sampah]],[[Perencanaan Saluran]],[[ Perencanaan PJU]].

@@ -1,0 +1,1 @@
+Cathie Wood adalah seorang yang Pro terhadap [[Bitcoin]]
